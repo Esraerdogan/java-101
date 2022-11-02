@@ -12,7 +12,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Patikasının, GIT E
 Öncelikle projeyi cloneladık. (Buraya kendi repomuzdan aldığımız link gelecek)
 
 ```
-git clone https://github.com/Esraerdogan/kodluyoruzilkrepo.git
+git clone https://github.com/Esraerdogan/kodluyoruzilkrepo
 ```
 ---
 ## Usage 
