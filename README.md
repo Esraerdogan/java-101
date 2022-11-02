@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Patikasının, GIT E
 İçersinde bir adet README.md dosyası, bir adet de index.html barınıdıyor.
 ---
 ---
-![görüntü](img/github.png)
+![resim_linki](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 ---
 ---
 
