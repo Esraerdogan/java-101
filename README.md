@@ -1,9 +1,10 @@
-# Deneme
+# Kodluyoruz Ilk Repo
 
-## Alt bilgi
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Patikasının, GIT Eğitiminde oluşturduğumuz ilk repo. 
+İçersinde bir adet README.md dosyası, bir adet de index.html barınıdıyor.
+---
+---
+![görüntü](img/github.png)
+---
+---
 
-dfşldkhlşlrgdh
-
-fdsşlhkbdgşlhngşf
-
-[lorem ipsum](https://google.com)
